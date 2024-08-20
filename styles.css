@@ -7,6 +7,12 @@ body {
     font-size: 1rem;
 }
 
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
 header {
     background-color: #1a1a1a;
     color: #eee;
